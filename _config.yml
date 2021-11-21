@@ -1,6 +1,8 @@
 title: Hydure
 tagline: A concise two-column blog theme for Jekyll
 
+exclude: [path vendor]
+
 author:
   name: Song-Zi Vong
   url: https://twitter.com/zivong91
